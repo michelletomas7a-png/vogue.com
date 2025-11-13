@@ -1,0 +1,11 @@
+@charset "UTF-8";
+body font p {
+}
+body font p {
+	text-align: justify;
+	padding-left: 100px;
+	padding-right: 25px;
+}
+body font {
+	padding-left: 100px;
+}
